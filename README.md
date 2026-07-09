@@ -6,10 +6,10 @@ Building high-performance web architectures, interactive data systems, and break
 ---
 
 ### 🏎️ Active Project
-* **[Nopeus GT](https://nopeus-gt.vercel.app/)** — An open-source telemetry hub for Gran Turismo 7. 
+* **[Nopeus GT](https://nopeus-gt.vercel.app/)** — an open-source telemetry hub for Gran Turismo 7. 
   * *Stack:* Next.js (App Router), TypeScript, Prisma ORM, PostgreSQL.
   * *Architecture:* Feature-Sliced Design (FSD).
-  * **Repository:** [nopeus-gt-fe](https://github.com/nopeus-montenegro/nopeus-gt-fe)
+  * *Repository:* [nopeus-gt-fe](https://github.com/nopeus-montenegro/nopeus-gt-fe)
 
 ### 💼 Professional Matrix
 * **Contract Work & B2B:** [Connect on LinkedIn](https://www.linkedin.com/in/iurii-pototskii/)
